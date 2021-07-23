@@ -1,2 +1,2 @@
 # TicTacToe
-A simple ame of Tictactoe coded in Python language.
+A simple game of Tictactoe coded in Python language.
